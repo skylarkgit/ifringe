@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/abhay-verma/anaconda3/envs/ifringe_env/bin/python",
+    "python.formatting.autopep8Args": [
+        "--max-line-length=1000"
+    ]
+}
