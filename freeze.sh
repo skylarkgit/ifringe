@@ -1,1 +1,1 @@
-pip list --format=freeze > requirements.txt
+(pip list --format=freeze | grep --invert-match setuptools) > requirements.txt
